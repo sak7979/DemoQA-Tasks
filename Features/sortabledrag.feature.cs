@@ -133,7 +133,7 @@ namespace PlaywrightT.Features
             {
                 await this.ScenarioStartAsync();
 #line 6
-    await testRunner.GivenAsync("user navigates to sortable page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
+    await testRunner.GivenAsync("user navigates to \"Sortable\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
 #line hidden
 #line 7
     await testRunner.WhenAsync("user drags item One and drops it near Five", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");

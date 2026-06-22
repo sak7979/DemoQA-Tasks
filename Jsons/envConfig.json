@@ -5,11 +5,6 @@
     },
     "Dev": {
       "BaseUrl": "https://demoqa.com/alerts",
-      "Pages": {
-        "alerts": "/alerts-dev",
-        "buttons": "/buttons-dev",
-        "textbox": "/text-box-dev"
       }
     }
-  }
-}
+ }

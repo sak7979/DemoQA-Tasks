@@ -1,0 +1,1166 @@
+6/22/2026 11:28:52 AM | log | webtables
+6/22/2026 11:28:52 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:28:52 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:28:52 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:28:52 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:29:38 AM | log | alerts
+6/22/2026 11:29:38 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:29:38 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:29:38 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:29:38 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:29:43 AM | log | alerts
+6/22/2026 11:29:43 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:29:43 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:29:43 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:29:43 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:30:38 AM | log | alerts
+6/22/2026 11:30:38 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:30:38 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:30:38 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:30:38 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:31:38 AM | log | alerts
+6/22/2026 11:31:38 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:31:38 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:31:38 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:31:38 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:34:12 AM | log | alerts
+6/22/2026 11:34:12 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:34:12 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:34:12 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:34:12 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:39:53 AM | log | alerts
+6/22/2026 11:39:53 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:39:53 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:39:53 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:39:53 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:42:08 AM | log | alerts
+6/22/2026 11:42:08 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:42:08 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:42:08 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:42:08 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:44:19 AM | log | alerts
+6/22/2026 11:44:19 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:44:19 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:44:19 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:44:19 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:52:21 AM | log | alerts
+6/22/2026 11:52:22 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:52:22 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:52:22 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:52:22 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:52:47 AM | log | alerts
+6/22/2026 11:52:47 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:52:47 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:52:47 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:52:47 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:07 AM | log | alerts
+6/22/2026 11:53:08 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:53:08 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:08 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:08 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:13 AM | log | alerts
+6/22/2026 11:53:13 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:53:13 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:13 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:13 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:35 AM | log | alerts
+6/22/2026 11:53:35 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:53:35 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:35 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:35 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:41 AM | log | alerts
+6/22/2026 11:53:41 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:53:41 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:41 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:41 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:47 AM | log | alerts
+6/22/2026 11:53:47 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:53:47 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:47 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:47 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:55 AM | log | alerts
+6/22/2026 11:53:55 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:53:55 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:55 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:53:55 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:03 AM | log | alerts
+6/22/2026 11:54:03 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:54:03 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:03 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:03 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:21 AM | log | buttons
+6/22/2026 11:54:21 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:54:21 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:21 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:21 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:30 AM | log | text-box
+6/22/2026 11:54:30 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:54:30 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:30 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:30 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:40 AM | log | text-box
+6/22/2026 11:54:40 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:54:40 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:40 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:40 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:53 AM | log | upload-download
+6/22/2026 11:54:54 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:54:54 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:54 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:54 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:54:54 AM | log | upload-download
+6/22/2026 11:55:02 AM | log | modal-dialogs
+6/22/2026 11:55:02 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:55:02 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:02 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:02 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:03 AM | log | modal-dialogs
+6/22/2026 11:55:16 AM | log | resizable
+6/22/2026 11:55:16 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:55:16 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:16 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:16 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:28 AM | log | sortable
+6/22/2026 11:55:28 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:55:28 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:28 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:28 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:29 AM | log | sortable
+6/22/2026 11:55:35 AM | log | webtables
+6/22/2026 11:55:35 AM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 11:55:35 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:35 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 11:55:35 AM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:07:14 PM | log | alerts
+6/22/2026 12:07:14 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:07:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:07:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:07:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:07:36 PM | log | alerts
+6/22/2026 12:07:36 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:07:36 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:07:36 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:07:36 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:13:58 PM | log | alerts
+6/22/2026 12:13:58 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:13:58 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:13:58 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:13:58 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:17 PM | log | alerts
+6/22/2026 12:14:17 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:14:17 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:17 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:17 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:24 PM | log | alerts
+6/22/2026 12:14:24 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:14:24 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:24 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:24 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:31 PM | log | alerts
+6/22/2026 12:14:31 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:14:31 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:31 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:31 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:40 PM | log | alerts
+6/22/2026 12:14:40 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:14:40 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:40 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:14:40 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:19:57 PM | log | alerts
+6/22/2026 12:19:57 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:19:57 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:19:57 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:19:57 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:04 PM | log | alerts
+6/22/2026 12:20:04 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:20:04 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:04 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:04 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:11 PM | log | alerts
+6/22/2026 12:20:11 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:20:11 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:11 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:11 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:19 PM | log | alerts
+6/22/2026 12:20:19 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:20:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:26 PM | log | alerts
+6/22/2026 12:20:26 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:20:26 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:26 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:20:26 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:21:19 PM | log | alerts
+6/22/2026 12:21:19 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:21:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:21:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:21:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:21:26 PM | log | alerts
+6/22/2026 12:21:26 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:21:26 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:21:26 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:21:26 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:21:58 PM | log | alerts
+6/22/2026 12:21:58 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:21:58 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:21:58 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:21:58 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:16 PM | log | alerts
+6/22/2026 12:25:16 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:25:16 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:16 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:16 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:22 PM | log | alerts
+6/22/2026 12:25:22 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:25:22 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:22 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:22 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:29 PM | log | alerts
+6/22/2026 12:25:29 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:25:29 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:29 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:29 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:37 PM | log | alerts
+6/22/2026 12:25:37 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:25:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:25:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:27 PM | log | alerts
+6/22/2026 12:26:27 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:26:27 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:27 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:27 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:35 PM | log | alerts
+6/22/2026 12:26:35 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:26:35 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:35 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:35 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:41 PM | log | alerts
+6/22/2026 12:26:41 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:26:41 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:41 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:41 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:49 PM | log | alerts
+6/22/2026 12:26:49 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:26:49 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:49 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:49 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:56 PM | log | alerts
+6/22/2026 12:26:56 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:26:56 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:56 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:26:56 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:28:54 PM | log | alerts
+6/22/2026 12:28:54 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:28:54 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:28:54 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:28:54 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:00 PM | log | alerts
+6/22/2026 12:29:00 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:29:00 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:00 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:00 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:06 PM | log | alerts
+6/22/2026 12:29:07 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:29:07 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:07 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:07 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:15 PM | log | alerts
+6/22/2026 12:29:15 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:29:15 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:15 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:15 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:21 PM | log | alerts
+6/22/2026 12:29:21 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:29:21 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:21 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:21 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:52 PM | log | alerts
+6/22/2026 12:29:52 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:29:52 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:52 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:53 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:59 PM | log | alerts
+6/22/2026 12:29:59 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:29:59 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:59 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:29:59 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:05 PM | log | alerts
+6/22/2026 12:30:05 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:30:05 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:05 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:05 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:12 PM | log | alerts
+6/22/2026 12:30:13 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:30:13 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:13 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:13 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:19 PM | log | alerts
+6/22/2026 12:30:19 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:30:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:40 PM | log | buttons
+6/22/2026 12:30:40 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:30:40 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:40 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:40 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:50 PM | log | text-box
+6/22/2026 12:30:50 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:30:50 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:50 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:50 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:59 PM | log | text-box
+6/22/2026 12:30:59 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:30:59 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:59 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:30:59 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:14 PM | log | upload-download
+6/22/2026 12:31:14 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:31:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:15 PM | log | upload-download
+6/22/2026 12:31:20 PM | log | modal-dialogs
+6/22/2026 12:31:20 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:31:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:21 PM | log | modal-dialogs
+6/22/2026 12:31:30 PM | log | resizable
+6/22/2026 12:31:30 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:31:30 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:30 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:30 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:43 PM | log | sortable
+6/22/2026 12:31:43 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:31:43 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:43 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:43 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:44 PM | log | sortable
+6/22/2026 12:31:50 PM | log | webtables
+6/22/2026 12:31:50 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:31:50 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:50 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:31:50 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:37:56 PM | log | alerts
+6/22/2026 12:37:57 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:37:57 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:37:57 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:37:57 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:38:03 PM | log | alerts
+6/22/2026 12:38:03 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:38:03 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:38:04 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:38:04 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:38:10 PM | log | alerts
+6/22/2026 12:38:10 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:38:10 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:38:10 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:38:10 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:39:49 PM | log | browser-windows
+6/22/2026 12:39:49 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:39:49 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:39:49 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:39:49 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:39:50 PM | log | browser-windows
+6/22/2026 12:41:36 PM | log | browser-windows
+6/22/2026 12:41:36 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:41:36 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:41:36 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:41:36 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:41:37 PM | log | browser-windows
+6/22/2026 12:43:37 PM | log | browser-windows
+6/22/2026 12:43:37 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:43:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:43:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:43:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:43:38 PM | log | browser-windows
+6/22/2026 12:47:06 PM | log | browser-windows
+6/22/2026 12:47:06 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 12:47:06 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:47:06 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 12:47:06 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 1:46:37 PM | log | upload-download
+6/22/2026 1:46:37 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 1:46:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 1:46:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 1:46:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 1:46:38 PM | log | upload-download
+6/22/2026 3:24:49 PM | log | upload-download
+6/22/2026 3:24:49 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:24:49 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:24:49 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:24:49 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:24:50 PM | log | upload-download
+6/22/2026 3:25:53 PM | log | upload-download
+6/22/2026 3:25:53 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:25:53 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:25:53 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:25:53 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:25:54 PM | log | upload-download
+6/22/2026 3:34:32 PM | log | upload-download
+6/22/2026 3:34:33 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:34:33 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:34:33 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:34:33 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:34:33 PM | log | upload-download
+6/22/2026 3:35:26 PM | log | upload-download
+6/22/2026 3:35:27 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:35:27 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:35:27 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:35:27 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:39:09 PM | log | upload-download
+6/22/2026 3:39:09 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:39:09 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:39:09 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:39:09 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:39:16 PM | log | upload-download
+6/22/2026 3:39:40 PM | log | upload-download
+6/22/2026 3:39:41 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:39:41 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:39:41 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:39:41 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:01 PM | log | alerts
+6/22/2026 3:40:01 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:40:01 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:01 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:01 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:08 PM | log | alerts
+6/22/2026 3:40:09 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:40:09 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:09 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:09 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:16 PM | log | alerts
+6/22/2026 3:40:16 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:40:16 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:16 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:16 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:24 PM | log | alerts
+6/22/2026 3:40:24 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:40:24 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:24 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:24 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:32 PM | log | alerts
+6/22/2026 3:40:33 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:40:33 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:33 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:33 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:51 PM | log | checkbox
+6/22/2026 3:40:51 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:40:51 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:51 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:51 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:40:52 PM | log | checkbox
+6/22/2026 3:41:04 PM | log | frames
+6/22/2026 3:41:04 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:41:04 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:04 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:04 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:05 PM | log | frames
+6/22/2026 3:41:05 PM | log | frames
+6/22/2026 3:41:13 PM | log | buttons
+6/22/2026 3:41:13 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:41:13 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:13 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:13 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:23 PM | log | text-box
+6/22/2026 3:41:23 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:41:23 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:23 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:23 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:36 PM | log | text-box
+6/22/2026 3:41:36 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:41:36 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:36 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:36 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:48 PM | log | browser-windows
+6/22/2026 3:41:48 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:41:48 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:48 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:48 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:55 PM | log | upload-download
+6/22/2026 3:41:56 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:41:56 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:56 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:41:56 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:07 PM | log | modal-dialogs
+6/22/2026 3:42:07 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:42:07 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:07 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:07 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:08 PM | log | modal-dialogs
+6/22/2026 3:42:14 PM | log | radio-button
+6/22/2026 3:42:14 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:42:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:15 PM | log | radio-button
+6/22/2026 3:42:21 PM | log | resizable
+6/22/2026 3:42:21 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:42:21 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:21 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:21 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:33 PM | log | sortable
+6/22/2026 3:42:33 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:42:33 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:33 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:33 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:34 PM | log | sortable
+6/22/2026 3:42:40 PM | log | webtables
+6/22/2026 3:42:40 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:42:40 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:40 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:42:40 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:50:36 PM | log | nestedframes
+6/22/2026 3:50:37 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:50:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:50:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:50:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:50:38 PM | log | nestedframes
+6/22/2026 3:50:38 PM | log | nestedframes
+6/22/2026 3:54:08 PM | log | nestedframes
+6/22/2026 3:54:08 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:54:08 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:54:08 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:54:08 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:55:45 PM | log | frames
+6/22/2026 3:55:45 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:55:45 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:55:45 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:55:45 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:58:20 PM | log | checkbox
+6/22/2026 3:58:20 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 3:58:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:58:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 3:58:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:00:14 PM | log | radio-button
+6/22/2026 4:00:14 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:00:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:00:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:00:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:01:18 PM | log | radio-button
+6/22/2026 4:01:18 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:01:18 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:01:18 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:01:18 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:03:03 PM | log | modal-dialogs
+6/22/2026 4:03:03 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:03:03 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:03:03 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:03:03 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:04:57 PM | log | sortable
+6/22/2026 4:04:57 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:04:57 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:04:57 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:04:57 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:35 PM | log | alerts
+6/22/2026 4:06:35 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:06:35 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:35 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:35 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:42 PM | log | alerts
+6/22/2026 4:06:43 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:06:43 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:43 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:43 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:50 PM | log | alerts
+6/22/2026 4:06:50 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:06:50 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:50 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:50 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:58 PM | log | alerts
+6/22/2026 4:06:58 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:06:58 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:58 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:06:58 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:05 PM | log | alerts
+6/22/2026 4:07:05 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:07:05 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:05 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:05 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:19 PM | log | checkbox
+6/22/2026 4:07:19 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:07:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:30 PM | log | nestedframes
+6/22/2026 4:07:30 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:07:30 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:30 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:30 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:39 PM | log | frames
+6/22/2026 4:07:39 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:07:39 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:39 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:39 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:46 PM | log | buttons
+6/22/2026 4:07:46 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:07:46 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:46 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:46 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:54 PM | log | text-box
+6/22/2026 4:07:55 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:07:55 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:55 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:07:55 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:06 PM | log | text-box
+6/22/2026 4:08:06 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:08:06 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:06 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:06 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:16 PM | log | browser-windows
+6/22/2026 4:08:16 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:08:16 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:16 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:16 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:23 PM | log | upload-download
+6/22/2026 4:08:23 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:08:23 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:23 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:23 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:37 PM | log | modal-dialogs
+6/22/2026 4:08:37 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:08:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:37 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:47 PM | log | radio-button
+6/22/2026 4:08:47 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:08:47 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:47 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:47 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:56 PM | log | resizable
+6/22/2026 4:08:56 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:08:56 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:56 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:08:56 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:09:07 PM | log | sortable
+6/22/2026 4:09:08 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:09:08 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:09:08 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:09:08 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:09:20 PM | log | webtables
+6/22/2026 4:09:20 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:09:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:09:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:09:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:11 PM | log | alerts
+6/22/2026 4:19:11 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:19:11 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:11 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:11 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:18 PM | log | alerts
+6/22/2026 4:19:19 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:19:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:19 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:26 PM | log | alerts
+6/22/2026 4:19:26 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:19:26 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:26 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:26 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:34 PM | log | alerts
+6/22/2026 4:19:34 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:19:34 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:34 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:34 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:41 PM | log | alerts
+6/22/2026 4:19:42 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:19:42 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:42 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:42 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:54 PM | log | checkbox
+6/22/2026 4:19:55 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:19:55 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:55 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:19:55 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:05 PM | log | nestedframes
+6/22/2026 4:20:06 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:20:06 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:06 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:06 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:14 PM | log | frames
+6/22/2026 4:20:14 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:20:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:14 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:20 PM | log | buttons
+6/22/2026 4:20:20 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:20:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:20 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:28 PM | log | text-box
+6/22/2026 4:20:29 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:20:29 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:29 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:29 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:42 PM | log | text-box
+6/22/2026 4:20:43 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:20:43 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:43 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:43 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:53 PM | log | browser-windows
+6/22/2026 4:20:53 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:20:53 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:53 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:20:53 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:01 PM | log | upload-download
+6/22/2026 4:21:01 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:21:01 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:01 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:01 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:11 PM | log | modal-dialogs
+6/22/2026 4:21:11 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:21:11 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:11 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:11 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:21 PM | log | radio-button
+6/22/2026 4:21:21 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:21:21 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:21 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:21 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:28 PM | log | resizable
+6/22/2026 4:21:29 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:21:29 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:29 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:29 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:41 PM | log | sortable
+6/22/2026 4:21:41 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:21:41 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:41 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:41 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:55 PM | log | webtables
+6/22/2026 4:21:55 PM | error | Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID
+6/22/2026 4:21:55 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:55 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)
+6/22/2026 4:21:55 PM | error | Error setting up advertisement: Error: Failed to load GPT script
+    at r.onerror (https://demoqa.com/assets/index-D_rDx8ml.js:39:91776)

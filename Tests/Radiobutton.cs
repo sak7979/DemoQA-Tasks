@@ -11,15 +11,16 @@ namespace demosite.Tests
     public class RadioButtonTest : Baseclass
     {
         private RadioButtonpage? radio;
-        [Test]
-        [Given("user navigates to the radio-button page")]
-        public async Task RadioButton()
-        {
-            radio = new RadioButtonpage(page);
-            await radio.Navigate();
-        }
+        //[Test]
+        //[Given("user navigates to the radio-button page")]
+        //public async Task RadioButton()
+        //{
+        //    radio = new RadioButtonpage(page);
+        //    await radio.Navigate();
+        //}
         [When("user selects yesRadio")]
         public async Task Yes(){
+            radio = new RadioButtonpage(page);
             await radio.SelectYes();
         }
         [Then("Validate response with {string}")]

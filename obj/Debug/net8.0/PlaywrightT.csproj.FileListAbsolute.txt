@@ -228,3 +228,4 @@ C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\Pla
 C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\PlaywrightT\PlaywrightT\bin\Debug\net8.0\AspectInjector.Broker.dll
 C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\PlaywrightT\PlaywrightT\bin\Debug\net8.0\CsvHelper.dll
 C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\PlaywrightT\PlaywrightT\bin\Debug\net8.0\MimeTypesMap.dll
+C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\PlaywrightT\PlaywrightT\obj\Debug\net8.0\PlaywrightT.sourcelink.json

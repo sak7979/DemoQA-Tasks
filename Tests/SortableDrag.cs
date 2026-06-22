@@ -10,16 +10,17 @@ namespace demosite.Tests
     public class SortableDragDrop : Baseclass
     {
         private SortableDrag? sort;
-        [Test]
-        [Given("user navigates to sortable page")]
-        public async Task SortNavigate()
-        {
-            sort = new SortableDrag(page);
-            await sort.Navigate();
-        }
+        //[Test]
+        //[Given("user navigates to sortable page")]
+        //public async Task SortNavigate()
+        //{
+        //    sort = new SortableDrag(page);
+        //    await sort.Navigate();
+        //}
         [When("user drags item One and drops it near Five")]
         public async Task Reordering()
         {
+            sort = new SortableDrag(page);
             await sort.ReorderItems();
         }
         [Then("the list should be reordered successfully")]

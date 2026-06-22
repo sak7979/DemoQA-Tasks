@@ -7,22 +7,17 @@ using demosite.Base;
 public class TaskBrowserWindow : Baseclass
 {
     private BroweserWindow Brow;
-    [Given("user navigates to browser windows page")]
-    public async Task BrowserNavigate()
-    {
-        Brow =new BroweserWindow(page,context);
-        await Brow .Navigate();
-    }
+
     [When("user clicks on new tab button")]
     public async Task NewTab()
     {
-        await Brow .Newtab();
+        Brow = new BroweserWindow(page, context);
+        await Brow.Newtab();
     }
+    // Missing closing brace here
     [Then("new tab should display sample heading")]
     public async Task Validate()
     {
-    
         await Brow.ValidateTab();
-        
     }
 }

@@ -13,7 +13,7 @@ namespace demosite.Pages
         }
         //public async Task Navigate()
         //{
-        //    await page.GotoAsync("https://demoqa.com/upload-download");
+        //await page.GotoAsync("https://demoqa.com/upload-download");
         //}
         public async Task UploadFile(string filepath)
         {

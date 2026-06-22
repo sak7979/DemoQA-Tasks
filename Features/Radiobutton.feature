@@ -2,7 +2,7 @@
 Feature: Radio Button
 @Radio
 Scenario: Handling Radio Button
-    Given user navigates to the radio-button page
+    Given user navigates to "RadioButton" page
     When user selects yesRadio
     Then Validate response with "Yes"
     When user selects impressiveRadio

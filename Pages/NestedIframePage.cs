@@ -14,10 +14,10 @@ namespace demosite.Pages
         {
             this.page = page;
         }
-        public async Task Navigate()
-        {
-            await page.GotoAsync("https://demoqa.com/nestedframes");
-        }
+        //public async Task Navigate()
+        //{
+        //    await page.GotoAsync("https://demoqa.com/nestedframes");
+        //}
         public async Task ValidateNestedFrames()
         {
             var ParentFrame = page.FrameLocator("#frame1");
