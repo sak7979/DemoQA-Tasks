@@ -133,7 +133,7 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
             {
                 await this.ScenarioStartAsync();
 #line 5
-    await testRunner.GivenAsync("user navigates to modal-dialogs page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
+    await testRunner.GivenAsync("user navigates to \"ModalDialogs\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
 #line hidden
 #line 6
     await testRunner.WhenAsync("user clicks on showsmallmodal dialog pops up", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");

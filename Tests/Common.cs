@@ -11,10 +11,10 @@ public class Common : Baseclass
     [Given("user navigates to {string} page")]
     public async Task WhenINavigate(string pagename)
     {
-        string url = EnvHelper.GetUrl(env, pageName.ToLower());
-        await page.GotoAsync(url);
-        //var pages = UrlMap.Url[pagename];
-        //await page.GotoAsync(pages);
+        //string url = EnvHelper.GetUrl(env, pageName.ToLower());
+        //await page.GotoAsync(url);
+        var pages = UrlMap.Url[pagename];
+        await page.GotoAsync(pages);
     }
     [When("User enters {string} as {string}")]
     public async Task FieldAsValue(string fieldname, string value)

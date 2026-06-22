@@ -3,7 +3,7 @@
 Feature: Webtable operations
 @Webtables
 Scenario: Add, search, edit and delete a record
-	Given user navigate to webtables page
+	Given user navigates to "WebTables" page
 	When user adds a new record 
 		| firstName | lastName | userName       | age | salary | department |
 		| Lionel    | Messi    | Messi@mail.com | 38  | 150000 | Football   |

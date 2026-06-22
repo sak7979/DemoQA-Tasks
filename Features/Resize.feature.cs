@@ -133,7 +133,7 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
             {
                 await this.ScenarioStartAsync();
 #line 5
-    await testRunner.GivenAsync("user navigates to resizable page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
+    await testRunner.GivenAsync("user navigates to \"Resizable\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
 #line hidden
 #line 6
     await testRunner.WhenAsync("user resizes the box", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");

@@ -10,20 +10,21 @@ namespace demosite.Tests
     [Binding]
     public class Fileupldowl : Baseclass
     {
-        private Filespages?pageobj;
-        // string filepath = @"C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\Filssss\HIII.txt";
-        // string downloadpath = @"C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\Filssss";
+        private Filespages pageobj = null!;
+        //string filepath = @"C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\Filssss\HIII.txt";
+        //string downloadpath = @"C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\Filssss";
         //[Test]
         //[Given("user navigates to Files upload-download page")]
         //public async Task Navigate()
         //{
         //    pageobj = new Filespages(page);
-        //    // string filepath = @"C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\Filssss\HIII.txt";
-        //    // string downloadpath = @"C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\Filssss";
+        //    string filepath = @"C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\Filssss\HIII.txt";
+        //    string downloadpath = @"C:\Users\sakethram.n\OneDrive - TECHNOVERT SOLUTIONS PRIVATE LIMITED\Desktop\Filssss";
         //    await pageobj.Navigate();
         //}
         [When(@"user uploads Files using filepath ""(.*)""")]
         public async Task Upload(string filepath){
+            pageobj = new Filespages(page);
             await pageobj.UploadFile(filepath);
         }
         [Then(@"Validate the Upload Files using filename ""(.*)""")]

@@ -9,16 +9,17 @@ namespace demosite.Tests
     public class Task2checkboxTest : Baseclass
     {
         private CheckBoxPage checkBox;
-        [Given("user navigates to the Checkbox page")]
-        public async Task Navigate()
-        {
-            checkBox = new CheckBoxPage(page);
-            await checkBox.Navigate();
-        }
+        //[Given("user navigates to the Checkbox page")]
+        //public async Task Navigate()
+        //{
+        //    checkBox = new CheckBoxPage(page);
+        //    await checkBox.Navigate();
+        //}
 
         [When("user clicks Plus icon near Home Checkbox")]
         public async Task HomeIcon()
         {
+            checkBox = new CheckBoxPage(page);
             await checkBox.ExpandIT();
         }
 

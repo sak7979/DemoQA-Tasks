@@ -1,7 +1,7 @@
 Feature: Checkbox 
 @Checkbox
 Scenario Outline: Handling the Checkbox
-Given user navigates to the Checkbox page
+Given user navigates to "CheckBox" page
 When user clicks Plus icon near Home Checkbox
 And user selects Desktop Checkbox
 And user selects Documents Checkbox

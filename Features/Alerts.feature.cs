@@ -112,17 +112,17 @@ namespace PlaywrightT.Features
         
         [global::NUnit.Framework.TestAttribute()]
         [global::NUnit.Framework.DescriptionAttribute("Handle immediate alert")]
-        [global::NUnit.Framework.CategoryAttribute("immediate")]
+        [global::NUnit.Framework.CategoryAttribute("alert")]
         public async global::System.Threading.Tasks.Task HandleImmediateAlert()
         {
             string[] tagsOfScenario = new string[] {
-                    "immediate"};
+                    "alert"};
             global::System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new global::System.Collections.Specialized.OrderedDictionary();
             string pickleIndex = "0";
             global::Reqnroll.ScenarioInfo scenarioInfo = new global::Reqnroll.ScenarioInfo("Handle immediate alert", null, tagsOfScenario, argumentsOfScenario, featureTags, pickleIndex);
             string[] tagsOfRule = ((string[])(null));
             global::Reqnroll.RuleInfo ruleInfo = null;
-#line 6
+#line 5
 this.ScenarioInitialize(scenarioInfo, ruleInfo);
 #line hidden
             if ((global::Reqnroll.TagHelper.ContainsIgnoreTag(scenarioInfo.CombinedTags) || global::Reqnroll.TagHelper.ContainsIgnoreTag(featureTags)))
@@ -132,14 +132,14 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
             else
             {
                 await this.ScenarioStartAsync();
-#line 7
+#line 6
     await testRunner.GivenAsync("user navigates to \"Alerts\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
 #line hidden
-#line 8
+#line 7
     await testRunner.WhenAsync("user clicks on immediate alert button", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");
 #line hidden
-#line 9
-    await testRunner.ThenAsync("time alert should be accepted", ((string)(null)), ((global::Reqnroll.Table)(null)), "Then ");
+#line 8
+    await testRunner.ThenAsync("immediate alert should be accepted", ((string)(null)), ((global::Reqnroll.Table)(null)), "Then ");
 #line hidden
             }
             await this.ScenarioCleanupAsync();
@@ -147,17 +147,17 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
         
         [global::NUnit.Framework.TestAttribute()]
         [global::NUnit.Framework.DescriptionAttribute("Handle Time alert")]
-        [global::NUnit.Framework.CategoryAttribute("Time")]
+        [global::NUnit.Framework.CategoryAttribute("alert")]
         public async global::System.Threading.Tasks.Task HandleTimeAlert()
         {
             string[] tagsOfScenario = new string[] {
-                    "Time"};
+                    "alert"};
             global::System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new global::System.Collections.Specialized.OrderedDictionary();
             string pickleIndex = "1";
             global::Reqnroll.ScenarioInfo scenarioInfo = new global::Reqnroll.ScenarioInfo("Handle Time alert", null, tagsOfScenario, argumentsOfScenario, featureTags, pickleIndex);
             string[] tagsOfRule = ((string[])(null));
             global::Reqnroll.RuleInfo ruleInfo = null;
-#line 12
+#line 11
 this.ScenarioInitialize(scenarioInfo, ruleInfo);
 #line hidden
             if ((global::Reqnroll.TagHelper.ContainsIgnoreTag(scenarioInfo.CombinedTags) || global::Reqnroll.TagHelper.ContainsIgnoreTag(featureTags)))
@@ -167,11 +167,14 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
             else
             {
                 await this.ScenarioStartAsync();
-#line 13
+#line 12
     await testRunner.GivenAsync("user navigates to \"Alerts\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
 #line hidden
-#line 14
+#line 13
     await testRunner.WhenAsync("user clicks on time alert button", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");
+#line hidden
+#line 14
+    await testRunner.ThenAsync("time alert should be accepted", ((string)(null)), ((global::Reqnroll.Table)(null)), "Then ");
 #line hidden
             }
             await this.ScenarioCleanupAsync();
@@ -179,9 +182,11 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
         
         [global::NUnit.Framework.TestAttribute()]
         [global::NUnit.Framework.DescriptionAttribute("Accept confirm alert")]
+        [global::NUnit.Framework.CategoryAttribute("alert")]
         public async global::System.Threading.Tasks.Task AcceptConfirmAlert()
         {
-            string[] tagsOfScenario = ((string[])(null));
+            string[] tagsOfScenario = new string[] {
+                    "alert"};
             global::System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new global::System.Collections.Specialized.OrderedDictionary();
             string pickleIndex = "2";
             global::Reqnroll.ScenarioInfo scenarioInfo = new global::Reqnroll.ScenarioInfo("Accept confirm alert", null, tagsOfScenario, argumentsOfScenario, featureTags, pickleIndex);
@@ -212,9 +217,11 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
         
         [global::NUnit.Framework.TestAttribute()]
         [global::NUnit.Framework.DescriptionAttribute("Dismiss confirm alert")]
+        [global::NUnit.Framework.CategoryAttribute("alert")]
         public async global::System.Threading.Tasks.Task DismissConfirmAlert()
         {
-            string[] tagsOfScenario = ((string[])(null));
+            string[] tagsOfScenario = new string[] {
+                    "alert"};
             global::System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new global::System.Collections.Specialized.OrderedDictionary();
             string pickleIndex = "3";
             global::Reqnroll.ScenarioInfo scenarioInfo = new global::Reqnroll.ScenarioInfo("Dismiss confirm alert", null, tagsOfScenario, argumentsOfScenario, featureTags, pickleIndex);
@@ -245,10 +252,17 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
         
         [global::NUnit.Framework.TestAttribute()]
         [global::NUnit.Framework.DescriptionAttribute("Handle Prompt dialog")]
+        [global::NUnit.Framework.CategoryAttribute("alert")]
         [global::NUnit.Framework.TestCaseAttribute("Playwright", "4", null)]
         public async global::System.Threading.Tasks.Task HandlePromptDialog(string name, string @__pickleIndex, string[] exampleTags)
         {
-            string[] tagsOfScenario = exampleTags;
+            string[] @__tags = new string[] {
+                    "alert"};
+            if ((exampleTags != null))
+            {
+                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
+            }
+            string[] tagsOfScenario = @__tags;
             global::System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new global::System.Collections.Specialized.OrderedDictionary();
             argumentsOfScenario.Add("name", name);
             string pickleIndex = @__pickleIndex;

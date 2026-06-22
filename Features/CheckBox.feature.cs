@@ -131,7 +131,7 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
             {
                 await this.ScenarioStartAsync();
 #line 4
-await testRunner.GivenAsync("user navigates to the Checkbox page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
+await testRunner.GivenAsync("user navigates to \"CheckBox\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
 #line hidden
 #line 5
 await testRunner.WhenAsync("user clicks Plus icon near Home Checkbox", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");

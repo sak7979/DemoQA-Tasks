@@ -29,40 +29,57 @@ public async Task ImmediateAlert()
 
     public async Task TimeAlert()
     {
+        var tcs = new TaskCompletionSource<bool>();
+
         EventHandler<IDialog>? handler = null;
+
+        handler = async (_, dialog) =>
+        {
+            await dialog.AcceptAsync();
+            page.Dialog -= handler;
+
+            tcs.SetResult(true);
+        };
+
+        page.Dialog += handler;
+
+        await page.Locator("#timerAlertButton").ClickAsync();
+
+        await tcs.Task; // Wait until dialog is actually handled
+    }
+
+
+    public async Task ConfirmAlert()
+    {
+        EventHandler<IDialog>? handler = null;
+
         handler = async (_, dialog) =>
         {
             await dialog.AcceptAsync();
             page.Dialog -= handler;
         };
-        page.Dialog += handler;
-        await page.Locator("#timerAlertButton").ClickAsync();
 
+        page.Dialog += handler;
+
+        await page.Locator("#confirmButton").ClickAsync();
     }
-    public async Task ConfirmAlert()
+
+    public async Task DismissConfirmAlert()
     {
         EventHandler<IDialog>? handler = null;
-        handler =  async (_, dial) =>
+
+        handler = async (_, dialog) =>
         {
-            await dial.AcceptAsync();
+            await dialog.DismissAsync();
             page.Dialog -= handler;
         };
+
         page.Dialog += handler;
+
         await page.Locator("#confirmButton").ClickAsync();
-        string result = await page.Locator("#confirmButton").TextContentAsync();
-        if (result.Contains("OK"))
-        {
-            await Expect(page.Locator("#confirmResult"))
-            .ToContainTextAsync("You selected Ok");
-
-        }
-        else if (result.Contains("Cancel"))
-        {
-            await Expect(page.Locator("#confirmResult"))
-            .ToContainTextAsync("You selected Cancel");
-
-        }
     }
+
+
     public async Task PromptDialog(string text)
     {
         page.Dialog += async (_,dial) =>

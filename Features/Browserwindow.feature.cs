@@ -133,7 +133,7 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
             {
                 await this.ScenarioStartAsync();
 #line 5
-    await testRunner.GivenAsync("user navigates to browser windows page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
+    await testRunner.GivenAsync("user navigates to \"BrowserWindows\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
 #line hidden
 #line 6
     await testRunner.WhenAsync("user clicks on new tab button", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");

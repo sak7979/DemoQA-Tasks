@@ -9,16 +9,17 @@
         public class ModalTest: Baseclass
         {
             private ModalPage modal;
-            [Test]
-            [Given("user navigates to modal-dialogs page")]
-            public async Task Navigation()
-            {
-                modal = new ModalPage(page);
-                await modal.Naviagate();
-            }
+           // [Test]
+            //[Given("user navigates to modal-dialogs page")]
+            //public async Task Navigation()
+            //{
+            //    modal = new ModalPage(page);
+            //    await modal.Naviagate();
+            //}
             [When("user clicks on showsmallmodal dialog pops up")]
             public async Task smallmodal()
             {
+                modal = new ModalPage(page);
                 await modal.SmallModal();
             }
             [Then("small modal should be displayed and closed")]

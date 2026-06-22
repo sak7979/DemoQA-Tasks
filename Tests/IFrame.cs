@@ -7,20 +7,21 @@ namespace demosite.Tests
     [Binding]
     public class FramesTest : Baseclass
     {
-        private Framespage frames = null;
-        private NestedFramesPage nested = null;
+        private Framespage frames = null!;
+        private NestedFramesPage nested = null!;
 
-        [Given("user navigates to frames page")]
-        public async Task NavigateFrames()
-        {
-            frames = new Framespage(page);
+        //[Given("user navigates to frames page")]
+        //public async Task NavigateFrames()
+        //{
+        //    frames = new Framespage(page);
 
-            await frames.Navigate();
-        }
+        //    await frames.Navigate();
+        //}
 
         [When("user validates frame1 and frame2")]
         public async Task ValidateFrames()
         {
+            frames = new Framespage(page);
             await frames.Frames1();
         }
 
@@ -30,17 +31,19 @@ namespace demosite.Tests
             // Validation already handled in Frames1()
         }
 
-        [Given("user navigates to nested frames page")]
-        public async Task NavigateNestedFrames()
-        {
-            nested = new NestedFramesPage(page);
+        //[Given("user navigates to nested frames page")]
+        //public async Task NavigateNestedFrames()
+        //{
+        //    nested = new NestedFramesPage(page);
 
-            await nested.Navigate();
-        }
+        //    await nested.Navigate();
+        //}
 
         [When("user validates nested frames")]
         public async Task ValidateNested()
         {
+
+            nested = new NestedFramesPage(page);
             await nested.ValidateNestedFrames();
         }
 

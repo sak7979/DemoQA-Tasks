@@ -133,7 +133,7 @@ namespace PlaywrightT.Features
             {
                 await this.ScenarioStartAsync();
 #line 7
-    await testRunner.GivenAsync("user navigates to frames page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
+    await testRunner.GivenAsync("user navigates to \"Frames\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
 #line hidden
 #line 8
     await testRunner.WhenAsync("user validates frame1 and frame2", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");
@@ -168,7 +168,7 @@ namespace PlaywrightT.Features
             {
                 await this.ScenarioStartAsync();
 #line 15
-    await testRunner.GivenAsync("user navigates to nested frames page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
+    await testRunner.GivenAsync("user navigates to \"NestedFrames\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
 #line hidden
 #line 16
     await testRunner.WhenAsync("user validates nested frames", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");
