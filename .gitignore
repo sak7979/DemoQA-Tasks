@@ -1,1 +1,7 @@
-.vs
+.vs/
+bin/
+obj/
+allure-report/
+allure-results/
+playwright-report/
+test-results/
