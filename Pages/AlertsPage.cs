@@ -87,7 +87,8 @@ public async Task ImmediateAlert()
             await dial.AcceptAsync(text);
         };
         await page.Locator("#promtButton").ClickAsync();
-        await Expect(page.Locator("#promptResult")).ToContainTextAsync("hello",text);
+        Conosle.WriteLine("HI");
+        await Expect(page.Locator("#promptResult")).ToContainTextAsync(text);
     }
 }
 
