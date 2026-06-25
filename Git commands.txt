@@ -1,0 +1,45 @@
+================================================================================
+                           BASIC GIT COMMANDS CHEAT SHEET
+================================================================================
+
+--- 1. STARTING A REPOSITORY ---------------------------------------------------
+git init                                      # Create a brand new, empty local Git repository
+git clone <url>                               # Download an existing repository from GitHub
+
+--- 2. TRACKING & STAGING CHANGES ---------------------------------------------
+git status                                    # Show modified, tracked, and untracked files
+git add <file-name>                           # Stage a specific file for the next commit
+git add .                                     # Stage ALL changed and new files in the folder
+git diff                                      # Show line-by-line code changes not yet staged
+
+--- 3. SAVING CHANGES ----------------------------------------------------------
+git commit -m "your message here"             # Save staged files locally with a description
+git log                                       # View full history of all commits made here
+git log --oneline                             # View a clean, condensed one-line commit history
+
+--- 4. MANAGING BRANCHES -------------------------------------------------------
+git branch                                    # List all local branches (current branch has *)
+git checkout -b <branch-name>                 # Create a brand new branch and switch to it
+git checkout <branch-name>                    # Switch back to an existing branch
+git merge <branch-name>                       # Merge changes from that branch into your current branch
+git branch -d <branch-name>                   # Delete a branch locally after merging it
+
+--- 5. WORKING WITH GITHUB (REMOTES) -------------------------------------------
+git remote -v                                 # View the linked GitHub repository URLs
+git remote add origin <url>                    # Link local repository to GitHub for the first time
+git remote set-url origin <url>                # Fix/change an incorrect GitHub repository URL
+git push origin <branch-name>                 # Upload local commits to your online GitHub branch
+git pull origin <branch-name>                 # Download newest GitHub changes into local folder
+
+--- 6. UNDOING MISTAKES --------------------------------------------------------
+git restore <file-name>                       # Discard unsaved changes to reset a file back
+git reset HEAD <file-name>                    # Unstage a file but keep your actual code changes
+git commit --amend -m "new message"           # Fix the text message of your very last commit
+
+================================================================================
+                      GITHUB CLI WORKFLOW (FOR PULL REQUESTS)
+================================================================================
+gh auth login                                 # Log into your GitHub account inside terminal
+gh pr create                                  # Launch interactive wizard to open a pull request
+gh pr create --fill                           # Automate PR using branch name & commit messages
+gh pr create --web                            # Open the PR page in your web browser directly
