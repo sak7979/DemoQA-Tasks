@@ -9,7 +9,7 @@ Scenario: Handle immediate alert
 
 @alert   
 Scenario: Handle Time alert
-    Given user navigates to "Alerts" page
+    Given user navigates to "Alert" page
     When user clicks on time alert button
     Then time alert should be accepted
 

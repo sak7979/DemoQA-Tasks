@@ -168,7 +168,7 @@ this.ScenarioInitialize(scenarioInfo, ruleInfo);
             {
                 await this.ScenarioStartAsync();
 #line 12
-    await testRunner.GivenAsync("user navigates to \"Alerts\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
+    await testRunner.GivenAsync("user navigates to \"Alert\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Given ");
 #line hidden
 #line 13
     await testRunner.WhenAsync("user clicks on time alert button", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");

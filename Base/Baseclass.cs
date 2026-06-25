@@ -1,12 +1,10 @@
 using Microsoft.Playwright;
-using NUnit.Framework;
 using Reqnroll;
-//[assembly: Parallelizable(ParallelScope.Fixtures)]
-//[assembly: LevelOfParallelism(3)]
 
 namespace demosite.Base
 {
-    public abstract class Baseclass
+    [Binding]
+    public class Baseclass
     {
         protected static IPlaywright playwright = null!;
         protected static IBrowser browser = null!;
@@ -16,9 +14,9 @@ namespace demosite.Base
         [BeforeScenario]
         public async Task Setup()
         {
+            // Prevent multiple launches within the same scenario
             if (page != null && !page.IsClosed)
             {
-                Console.WriteLine("setup already done");
                 return;
             }
 
@@ -39,14 +37,6 @@ namespace demosite.Base
 
             page = await context.NewPageAsync();
 
-            await context.Tracing.StartAsync(
-                new TracingStartOptions
-                {
-                    Screenshots = true,
-                    Snapshots = true,
-                    Sources = true
-                });
-
             Directory.CreateDirectory("Logs");
 
             page.Console += (_, msg) =>
@@ -60,25 +50,26 @@ namespace demosite.Base
         [AfterScenario]
         public async Task TearDown()
         {
-            if (context != null)
+            try
             {
-                try
-                {
-                    await context.Tracing.StopAsync();
-                }
-                catch
-                {
-                    // Ignore if tracing already stopped
-                }
+                if (context != null)
+                    await context.CloseAsync();
 
-                await context.CloseAsync();
+                if (browser != null)
+                    await browser.CloseAsync();
+            }
+            finally
+            {
+                playwright?.Dispose();
+
+                page = null!;
+                context = null!;
+                browser = null!;
+                playwright = null!;
             }
         }
     }
 }
-
-
-
 
 
 

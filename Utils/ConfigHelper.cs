@@ -1,24 +1,21 @@
-using System.IO;
-using Newtonsoft.Json.Linq;
+using Microsoft.Extensions.Configuration;
 
 namespace demosite.Utils
 {
-    public static class EnvHelper
+    public static class ConfigHelper
     {
-        private static JObject _config;
+        private static readonly IConfiguration _config =
+            new ConfigurationBuilder()
+            .AddJsonFile("envConfig.json", optional: false, reloadOnChange: true)
+            .Build();
 
-        static EnvHelper()
+        public static string GetUrl(string pageName)
         {
-            var json = File.ReadAllText("Jsons/envConfig.json");
-            _config = JObject.Parse(json);
-        }
+            string env = Environment.GetEnvironmentVariable("TEST_ENV") ?? "QA";
 
-        public static string GetUrl(string env, string page)
-        {
-            var baseUrl = _config["Environments"]?[env]?["BaseUrl"]?.ToString();
-            var path = _config["Environments"]?[env]?["Pages"]?[page]?.ToString();
-
-            return $"{baseUrl}{path}";
+            return _config[$"Environments:{env}:{pageName}"]
+                ?? throw new Exception(
+                    $"URL not found for Environment '{env}' and Page '{pageName}'");
         }
     }
 }

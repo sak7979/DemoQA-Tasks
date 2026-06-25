@@ -1,18 +1,17 @@
-using NUnit.Framework;
-using demosite.Base;
 using Reqnroll;
-using demosite.Pages;
+using demosite.Base;
 using demosite.Utils;
-using System.Threading.Tasks;
-public class Envi : Baseclass
+
+namespace demosite.Tests
 {
-    [Given("user navigates to {string} page")]
-    public async Task Navigate(string pageName)
+    [Binding]
+    public class Env : Baseclass
     {
-        string env = Environment.GetEnvironmentVariable("TEST_ENV") ?? "QA";
+        public async Task NavigateToPage(string pageName)
+        {
+            string url = ConfigHelper.GetUrl(pageName);
 
-        string url = EnvHelper.GetUrl(env, pageName.ToLower());
-
-        await page.GotoAsync(url);
+            await page.GotoAsync(url);
+        }
     }
 }
