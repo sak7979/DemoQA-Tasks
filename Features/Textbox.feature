@@ -13,4 +13,4 @@ Feature: Generic Input Step Framework
 
       | name | email            | currentAddress | permanentAddress |
       | John | john@test.com    | Hyderabad      | India            |
-      | John | john@test.com    | Hyderabad      | India            |
+      | Jonn | jonn@test.com    | Benagluru      | India            |
