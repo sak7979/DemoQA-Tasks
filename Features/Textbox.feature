@@ -11,6 +11,6 @@ Feature: Generic Input Step Framework
 
       Examples:
 
-      | name | email            | currentAddress | permanentAddress |
-      | John | john@test.com    | Hyderabad      | India            |
-      | John | john@test.com    | Hyderabad      | India            |
+      | name  | email                | currentAddress | permanentAddress |
+      | John  | john@test.com        | Hyderabad      | India            |
+      | Jonhn | johnsnow@test.com    | Hyderabad      | India            |

@@ -1,10 +1,20 @@
 {
   "Environments": {
     "QA": {
-      "QAURL": "https://demoqa.com/text-box"
+      "BaseUrl": "https://demoqa.com",
+      "Pages": {
+        "TextBox": "/text-box",
+        "Alerts": "/alerts",
+        "Buttons": "/buttons"
+      }
     },
     "Dev": {
-      "BaseUrl": "https://demoqa.com/alerts",
+      "BaseUrl": "https://demoqa.com",
+      "Pages": {
+        "TextBox": "/text-box",
+        "Alerts": "/alerts",
+        "Buttons": "/buttons"
       }
     }
- }
+  }
+}

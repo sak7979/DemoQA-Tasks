@@ -114,7 +114,7 @@ namespace PlaywrightT.Features
         [global::NUnit.Framework.DescriptionAttribute("Verify text box form submission using generic fields")]
         [global::NUnit.Framework.CategoryAttribute("Textbox")]
         [global::NUnit.Framework.TestCaseAttribute("John", "john@test.com", "Hyderabad", "India", "0", null)]
-        [global::NUnit.Framework.TestCaseAttribute("John", "john@test.com", "Hyderabad", "India", "1", null)]
+        [global::NUnit.Framework.TestCaseAttribute("Jonhn", "johnsnow@test.com", "Hyderabad", "India", "1", null)]
         public async global::System.Threading.Tasks.Task VerifyTextBoxFormSubmissionUsingGenericFields(string name, string email, string currentAddress, string permanentAddress, string @__pickleIndex, string[] exampleTags)
         {
             string[] @__tags = new string[] {
