@@ -10,17 +10,10 @@ namespace demosite.Pages
         {
             this.page = page;
         }
-<<<<<<< HEAD
         //public async Task Naviagate()
         //{
         //    await page.GotoAsync("https://demoqa.com/modal-dialogs");
         //}
-=======
-        // public async Task Naviagate()
-        // {
-        //     await page.GotoAsync("https://demoqa.com/modal-dialogs");
-        // }
->>>>>>> 44923ca143bf62f24c57dd45e98aced47eab572f
         public async Task SmallModal()
         {
             await page.Locator("#showSmallModal").ClickAsync();
