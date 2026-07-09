@@ -1,3 +1,4 @@
+@smoke
 Feature: Checkbox 
 @Checkbox
 Scenario Outline: Handling the Checkbox
