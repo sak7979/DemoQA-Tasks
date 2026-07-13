@@ -1,4 +1,5 @@
 @smoke
+@regression
 Feature: Sortable Drag and Drop
 
   @Sortable
